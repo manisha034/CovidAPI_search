@@ -28,7 +28,7 @@ function App() {
   return (
 
     <div className='coviddata'>
-      <h1>Covid-19 State wise Information</h1>
+      <h1>Covid-19 State wise Information..</h1>
       
       <div className='userSearch'>
       <input 
